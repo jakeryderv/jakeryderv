@@ -1,4 +1,4 @@
-# Jake Van Slyke
+# other links
 - [linkedin](https://www.linkedin.com/in/jakeryderv)
 
 
