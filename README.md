@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://jvs.sh">website</a> ·
   <a href="https://jvs.sh/projects/">projects</a> ·
-  <a href="https://jvs.sh/blog/">writing</a> ·
   <a href="https://www.linkedin.com/in/jakeryderv/">linkedin</a> ·
   <a href="https://jvs.sh/contact/">contact</a>
 </p>
