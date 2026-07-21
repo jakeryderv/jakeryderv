@@ -4,8 +4,6 @@
   </a>
 </p>
 
-## Jake Van Slyke
-
 <p align="center">
   <a href="https://jvs.sh">website</a> ·
   <a href="https://jvs.sh/projects/">projects</a> ·
