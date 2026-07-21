@@ -1,6 +1,6 @@
-<!-- <a href="https://jvs.sh"> -->
-<!--   <img src="https://jvs.sh/og-image.png" alt="Terminal-style profile card for Jake Van Slyke with an ASCII portrait"> -->
-<!-- </a> -->
+<a href="https://jvs.sh">
+  <img src="https://jvs.sh/og-image.png" alt="Terminal-style profile card for Jake Van Slyke with an ASCII portrait">
+</a>
 
 ## Jake Van Slyke
 
