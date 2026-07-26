@@ -10,5 +10,3 @@
   <a href="https://www.linkedin.com/in/jakeryderv/">linkedin</a> ·
   <a href="https://jvs.sh/contact/">contact</a>
 </p>
-
-Applied Artificial Intelligence student at [OUPI](https://www.ou.edu/polytechnic).
